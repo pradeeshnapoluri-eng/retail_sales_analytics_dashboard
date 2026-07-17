@@ -31,7 +31,7 @@ A comprehensive **Retail Analytics Platform** that transforms raw transactional 
 | **Database** | MySQL 8.0 |
 | **Analytics** | SQL, Advanced SQL, Data Warehousing |
 | **Visualization** | Power BI |
-| **Data Science** | Python, Pandas, Scikit-Learn |
+| **Data Science** | Python|
 
 ---
 
